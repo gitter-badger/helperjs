@@ -1,0 +1,23 @@
+{
+  "name": "helperjs",
+  "version": "0.0.1",
+  "authors": [
+    "Digitally Seamless <development@digitallyseamless.com>"
+  ],
+  "description": "A Mobile HTML5 Boilerplate helper script",
+  "main": "helper.js",
+  "keywords": [
+    "HTML5",
+    "boilerplate",
+    "helperjs"
+  ],
+  "license": "MIT",
+  "homepage": "https://git.digitallyseamless.com/digitally-seamless/helperjs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
